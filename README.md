@@ -1,9 +1,9 @@
 # spark
 Apache Spark
 
-This repo contains Jupyter python notebooks demonstrating the use of the pySpark and MLlib modules explored in solving machine learning problems in Berkeley courses CS100.1 and CS190 as hosted on the edX platform.
+This repo contains Jupyter python notebooks demonstrating the use of the pySpark and MLlib modules explored in solving machine learning problems in Berkeley courses CS100.1 and CS190.1 as hosted on the edX platform.
 
-CS100.1
+CS100.1 : Introduction to Big Data with Apache Spark
 
 lab1 : Word count
 This lab will build on the techniques covered in the Spark tutorial to develop a simple word count application.  The volume of unstructured text in existence is growing dramatically, and Spark is an excellent tool for analyzing this type of data.  In this lab, we will write code that calculates the most common words in the [Complete Works of William Shakespeare](http://www.gutenberg.org/ebooks/100) retrieved from [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page).  This could also be scaled to find the most common words on the Internet.
@@ -19,7 +19,7 @@ Entity Resolution (ER) refers to the task of finding records in a dataset that r
 lab4 : Movie Recommender System
 One of the most common uses of big data is to predict what users want.  This allows Google to show you relevant ads, Amazon to recommend relevant products, and Netflix to recommend movies that you might like.  This lab will demonstrate how we can use Apache Spark to recommend movies to a user.  We will start with some basic techniques, and then use the [Spark MLlib][mllib] library's Alternating Least Squares method to make more sophisticated predictions.
 
-CS190 : Scalable Machine Learning
+CS190.1 : Scalable Machine Learning
 NOTEBOOKS NOT SHOWN UNTIL AFTER COURSE ENDS
 
 lab1 : Math and Python Review
